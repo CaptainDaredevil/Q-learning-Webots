@@ -1,0 +1,3 @@
+git add .
+git commit -m "Add README and .gitignore content"
+git push
